@@ -20,7 +20,11 @@
         },
         "location": null,
         "prerequisites": {
-            "value": []
+            "value": [
+                {
+                    "value": "Culture 14"
+                }
+            ]
         },
         "publication": {
             "license": "OGL",
